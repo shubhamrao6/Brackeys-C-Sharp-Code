@@ -1,0 +1,16 @@
+/home/shubham/Desktop/Brackeys/bin/Debug/net5.0/Brackeys
+/home/shubham/Desktop/Brackeys/bin/Debug/net5.0/Brackeys.deps.json
+/home/shubham/Desktop/Brackeys/bin/Debug/net5.0/Brackeys.runtimeconfig.json
+/home/shubham/Desktop/Brackeys/bin/Debug/net5.0/Brackeys.runtimeconfig.dev.json
+/home/shubham/Desktop/Brackeys/bin/Debug/net5.0/Brackeys.dll
+/home/shubham/Desktop/Brackeys/bin/Debug/net5.0/ref/Brackeys.dll
+/home/shubham/Desktop/Brackeys/bin/Debug/net5.0/Brackeys.pdb
+/home/shubham/Desktop/Brackeys/obj/Debug/net5.0/Brackeys.csprojAssemblyReference.cache
+/home/shubham/Desktop/Brackeys/obj/Debug/net5.0/Brackeys.GeneratedMSBuildEditorConfig.editorconfig
+/home/shubham/Desktop/Brackeys/obj/Debug/net5.0/Brackeys.AssemblyInfoInputs.cache
+/home/shubham/Desktop/Brackeys/obj/Debug/net5.0/Brackeys.AssemblyInfo.cs
+/home/shubham/Desktop/Brackeys/obj/Debug/net5.0/Brackeys.csproj.CoreCompileInputs.cache
+/home/shubham/Desktop/Brackeys/obj/Debug/net5.0/Brackeys.dll
+/home/shubham/Desktop/Brackeys/obj/Debug/net5.0/ref/Brackeys.dll
+/home/shubham/Desktop/Brackeys/obj/Debug/net5.0/Brackeys.pdb
+/home/shubham/Desktop/Brackeys/obj/Debug/net5.0/Brackeys.genruntimeconfig.cache
